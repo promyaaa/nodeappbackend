@@ -68,21 +68,3 @@ Navigate to `http://localhost:3000` in your browser, and you should see the mess
 
 ---
 
-🥷 **Hacker Tip**: Want to make your development process smoother? Install **nodemon** for auto-reloading your server during development:
-
-```bash
-npm install -g nodemon
-```
-
-Run your app with:
-```bash
-nodemon index.js
-```
-If nodemon create problem
-```bash
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
-- Installing the CORS (Cross-Origin Resource Sharing) middleware in Node.js application
-```bash
-npm i cors
-```
